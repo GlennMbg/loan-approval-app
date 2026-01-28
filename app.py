@@ -9,6 +9,7 @@ st.set_page_config(
 
 # titre 
 st.title("Loan Approval Prediction App 🚀")
+st.markdown("## About this App")
 
 # contenu
 st.write("Bienvenue dans l'application de prédiction d'approbation de prêt. ")
